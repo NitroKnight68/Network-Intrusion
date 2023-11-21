@@ -1,5 +1,9 @@
 # Network-Intrusion
 
+### Cloning the Repository
+```
+git clone https://github.com/NitroKnight68/Network-Intrusion.git
+```
 ### Creating Python Virtual Environment
 ```
 python -m venv venv
