@@ -9,7 +9,5 @@ source venv/Scripts/activate
 ```
 pip install -r requirements.txt
 ```
-***
 ### Link to Dataset
 [CICDS2017 Dataset](https://www.unb.ca/cic/datasets/ids-2017.html)
-***
